@@ -12,7 +12,7 @@ If you need only the class files (and not the source code), you can use
 
 <br>
 
-## Design goals
+## De sign goals
 
 Our original goal was to cover the <em>50 algorithms that every programmer should know</em>.
 We use the word <em>programmer</em> to refer to anyone engaged in trying to accomplish
